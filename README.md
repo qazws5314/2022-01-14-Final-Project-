@@ -7,6 +7,5 @@
 
 參考資料： https://github.com/analoganddigital/DQN_play_sekiro
 
-          强化学习(七)--Q-Learning和Sarsa - 知乎 (zhihu.com)
-![image](https://user-images.githubusercontent.com/90891665/150276421-787176dc-f738-400e-afe5-c69e01f3f44f.png)
+          https://zhuanlan.zhihu.com/p/46850008
 
